@@ -2,11 +2,6 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<style>
-body {
-}
-</style>
-</head>
 
 <body>
 <font color=”black” size=”6″>
